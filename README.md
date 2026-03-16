@@ -30,8 +30,8 @@ Installation
 2.  Install the required dependencies:
     pip install -r requirements.txt
 3.  Set the API Key
-    Windows (PowerShell): $env:GOOGLE_API_KEY="AIzaSyBcdQve5zHTTq6x3l7M_Vx3aYG4eVVE-1A"
-    Mac/Linux: export GOOGLE_API_KEY="AIzaSyBcdQve5zHTTq6x3l7M_Vx3aYG4eVVE-1A"
+    Windows (PowerShell): $env:GOOGLE_API_KEY="GOOGLE_API_KEY"
+    Mac/Linux: export GOOGLE_API_KEY="GOOGLE_API_KEY"
 
 5. How to Run
    Ensure your PDF documents are located in the data/ folder, then execute the script:
